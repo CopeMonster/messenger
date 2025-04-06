@@ -7,3 +7,4 @@
 
 rootProject.name = "messenger"
 include("common")
+include("discovery-server")
