@@ -9,3 +9,4 @@ rootProject.name = "messenger"
 include("common")
 include("discovery-server")
 include("api-gateway")
+include("user-service")
