@@ -8,3 +8,5 @@ out/
 
 # OS/filesystem
 .DS_Store
+
+.gradle/

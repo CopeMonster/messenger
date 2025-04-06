@@ -6,3 +6,4 @@
  */
 
 rootProject.name = "messenger"
+include("common")
